@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou o Walison Corbat</h1>
-<h3 align="center">Sou estudante de Sistemas para Internet e desenvolvedor web fron end junior, Estou em busca da primeira oportunidade como dev junior. Apreciem meus projetos até lá!</h3>
+<h3 align="center">Sou estudante de Sistemas para Internet e desenvolvedor web front end jr, Estou em busca da primeira oportunidade como dev junior. Apreciem meus projetos até lá!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wcorbat&label=Profile%20views&color=0e75b6&style=flat" alt="wcorbat" /> </p>
 
