@@ -1,12 +1,16 @@
 <h1 align="center">Olá 👋, Sou o Walison Corbat</h1>
 <h3 align="center">Sou estudante de Sistemas para Internet e desenvolvedor web front end jr. Estou em busca da primeira oportunidade formal como dev. Apreciem meus projetos até lá!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wcorbat&label=Profile%20views&color=0e75b6&style=flat" alt="wcorbat" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcorbat" alt="wcorbat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/corbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="corbat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/walisoncorbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walisoncorbat" height="30" width="40" /></a>
+<a href="https://instagram.com/wcorbat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wcorbat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1le3jh2zsklnkd0xvta9vw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1le3jh2zsklnkd0xvta9vw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
